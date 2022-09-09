@@ -18,3 +18,14 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - Pug, SCSS,
 - Gulp
 - Git
+
+## __Experience__
+  No experience yet :(
+    
+## __Education__ 
+- __University:__ Bryansk State Technical University, Software Engineering bachelor degree (2018-2022)
+- __University:__ Bryansk State Technical University, Software Engineering master degree (2022-2024)
+
+
+## __English__
+__A2__ (I had been practicing English, when I worked in the USA as an exchange student) 
