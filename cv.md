@@ -1,10 +1,11 @@
 # Vadim Berkut
-### Junior Frontend Developer
 
 ---
 
-### Contact information:
+## __Contact information__:
 
-**E-mail:** [vinnarde@yandex.ru](vinnarde@yandex.ru)
-**Discord:** @Pepega#9121
+- __Location:__ Bryansk, Russia
+- __E-mail:__ [vinnarde@yandex.ru](vinnarde@yandex.ru)
+- __Discord:__ @Pepega#9121
+- __Github:__ [Vinnarde](https://github.com/vinnarde)
 
